@@ -1,0 +1,9 @@
+.App {
+    text-align: center;
+  }
+
+  .hed{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
